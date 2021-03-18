@@ -8,6 +8,6 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 ## In This Section
 
-### BT01 Intro, Notes & Assets ###
-
+* BT01 Intro, Notes & Assets ###
+* BT02 Game Design Document(GDD)
 
